@@ -29,8 +29,8 @@ ul {
     top: 0;
     width: 100%;
     box-shadow: inset 0 47px #3F51B5, 0 5px 10px rgba(34,25,25,0.4);
-    -moz-box-shadow: inset 0 47px #fff, 0 5px 10px rgba(34,25,25,0.4);
-    -webkit-box-shadow: inset 0 47px #fff, 0 5px 10px rgba(34,25,25,0.4);
+    -moz-box-shadow: inset 0 47px #3F51B5, 0 5px 10px rgba(34,25,25,0.4);
+    -webkit-box-shadow: inset 0 47px #3F51B5, 0 5px 10px rgba(34,25,25,0.4);
 }
 
 li {
