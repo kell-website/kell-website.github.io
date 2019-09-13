@@ -19,7 +19,7 @@ a:active { }
                              List Styling
 ******************************************************************************/
 
-ul {
+ul.nav {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -33,7 +33,7 @@ ul {
     -webkit-box-shadow: inset 0 47px #3F51B5, 0 5px 10px rgba(34,25,25,0.4);
 }
 
-li {
+.nav li {
     float: left;
 }
 
@@ -53,6 +53,11 @@ li a:hover:not(.active) {
     background-color: #1A237E;
 }
 
+ul.demo {
+	list-style-type: none;
+	top: 0;
+	display: inline-block;
+}
 
 /*****************************************************************************
                              Cards
