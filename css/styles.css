@@ -24,13 +24,13 @@ ul.nav {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #3F51B5;
+    background-color: #424242;
     position: fixed;
     top: 0;
     width: 100%;
-    box-shadow: inset 0 47px #3F51B5, 0 5px 10px rgba(34,25,25,0.4);
-    -moz-box-shadow: inset 0 47px #3F51B5, 0 5px 10px rgba(34,25,25,0.4);
-    -webkit-box-shadow: inset 0 47px #3F51B5, 0 5px 10px rgba(34,25,25,0.4);
+    box-shadow: inset 0 47px #424242, 0 5px 10px rgba(66,66,66,1);
+    -moz-box-shadow: inset 0 47px #424242, 0 5px 10px rgba(66,66,66,1);
+    -webkit-box-shadow: inset 0 47px #424242, 0 5px 10px rgba(66,66,66,1);
 }
 
 .nav li {
@@ -46,11 +46,11 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color: #9FA8DA;
+    background-color: #6d6d6d;
 }
 
 .active {
-    background-color: #1A237E;
+    background-color: #1b1b1b;
 }
 
 ul.demo {
